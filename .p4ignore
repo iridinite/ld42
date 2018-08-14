@@ -1,0 +1,20 @@
+# general-purpose Visual Studio
+bin
+obj
+packages
+x86
+x64
+.vs
+*.sdf
+*.suo
+*.vsix
+*.*proj.user
+
+# Unity Engine
+Library
+Temp
+
+# Unreal Engine
+Binaries
+Intermediate
+Saved
